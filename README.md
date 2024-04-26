@@ -60,5 +60,5 @@ LG Aimers 3기 (2023)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=johnhuh619)](https://solved.ac/johnhuh619)
  <br/><br/>
 ## Contract :mailbox:
-  <a href="mailto:pjy90123@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:pjy90123@gmail.com"/></a>
-  <a href="mailto:wkdl301@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:wkdl301@naver.com"/></a>
+  <a href="mailto:pjy90123@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jaewonheo666@gmail.com"/></a>
+  <a href="mailto:wkdl301@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:hnwoon619@naver.com"/></a>
