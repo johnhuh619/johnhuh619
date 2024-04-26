@@ -39,11 +39,12 @@ Hi, I'm Jaewon Huh. Aim to be an Android developer whom others want to work with
  
   ## Studying :pencil2: 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
   <br/><br/>
 
 ## Activities :running:
-제 4회 예술로 바꾸는 세상 아이디어톤 우수상
+제 4회 예술로 바꾸는 세상 아이디어톤 우수상 (2023)
 <br/>
 LG Aimers 3기 (2023)
 <br/>
