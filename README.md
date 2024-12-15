@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   ## Introduction :raised_hands:
 안녕하세요! 함께 일하고 싶은 개발자가 되고 싶습니다.
 
-Hi, I'm Jaewon Huh. Aim to be an Android developer whom others want to work with
+Hi, I'm Jaewon Huh. Aim to be an developer whom others want to work with
 <br/><br/>
  
  <!--기술스택-->
