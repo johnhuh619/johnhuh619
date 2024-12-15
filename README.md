@@ -38,9 +38,7 @@ Hi, I'm Jaewon Huh. Aim to be an Android developer whom others want to work with
  <!--공부중 -->
  
   ## Studying :pencil2: 
-  https://img.shields.io/badge/Java-007396
-
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <br/><br/>
