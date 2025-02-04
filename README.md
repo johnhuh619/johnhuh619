@@ -51,7 +51,7 @@ LG Aimers 3기 수료(2023)
 문화데이터 활용 경진대회 참여 - 제품·서비스 부문 (2023)  
 <br/>
 공개SW 개발자대회 참여 (2023)
-<br/><br/>
+<br/>
 
  <!--알고리즘 -->
  <a href="https://github.com/JJongmen/Algorithm" > 
