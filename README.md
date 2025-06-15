@@ -42,6 +42,7 @@ Hi, I'm Jaewon Huh. Aim to be an developer whom others want to work with
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <br/><br/>
 
 ## Activities :running:
