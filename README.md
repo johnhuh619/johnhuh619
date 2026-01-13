@@ -15,6 +15,7 @@ Hi, I'm Jaewon Huh. Aim to be an developer whom others want to work with
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <br/><br/>
+  
 ## Activities :running:
 - SOFTBANK HACKERTON 2025 본선(2025)<br/>
 - 제 4회 예술로 바꾸는 세상 아이디어톤 우수상 (2023)<br/>
@@ -24,8 +25,6 @@ Hi, I'm Jaewon Huh. Aim to be an developer whom others want to work with
 <br/><br/>
 
  <!--알고리즘 -->
- <a href="https://github.com/JJongmen/Algorithm" > 
- 
  ## Problem Solving :muscle: 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=johnhuh619)](https://solved.ac/johnhuh619)
  <br/><br/>
