@@ -18,16 +18,11 @@ Hi, I'm Jaewon Huh. Aim to be an developer whom others want to work with
   <br/><br/>
   
 ## Activities :running:
-- SOFTBANK HACKERTON 2025 본선(2025)
-<br/>
-- 제 4회 예술로 바꾸는 세상 아이디어톤 우수상 (2023)
-<br/>
-- LG Aimers 3기 수료(2023)
-<br/>
-- 문화데이터 활용 경진대회 참여 - 제품·서비스 부문 참여 (2023)
-<br/>
-- 공개SW 개발자대회 참여 (2023)
-<br/>
+- SOFTBANK HACKERTON 2025 본선(2025)<br/>
+- 제 4회 예술로 바꾸는 세상 아이디어톤 우수상 (2023)<br/>
+- LG Aimers 3기 수료(2023)<br/>
+- 문화데이터 활용 경진대회 참여 - 제품·서비스 부문 참여 (2023)<br/>
+- 공개SW 개발자대회 참여 (2023)<br/>
 
  <!--알고리즘 -->
  <a href="https://github.com/JJongmen/Algorithm" > 
