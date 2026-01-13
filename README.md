@@ -17,25 +17,16 @@ Hi, I'm Jaewon Huh. Aim to be an developer whom others want to work with
   
   <br/><br/>
   
- <!--공부중 -->
- 
-  ## Studying :pencil2: 
-  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <br/><br/>
-
 ## Activities :running:
-SOFTBANK HACKERTON 2025 본선(2025)
+- SOFTBANK HACKERTON 2025 본선(2025)
 <br/>
-제 4회 예술로 바꾸는 세상 아이디어톤 우수상 (2023)
+- 제 4회 예술로 바꾸는 세상 아이디어톤 우수상 (2023)
 <br/>
-LG Aimers 3기 수료(2023)
+- LG Aimers 3기 수료(2023)
 <br/>
-문화데이터 활용 경진대회 참여 - 제품·서비스 부문 참여 (2023)
+- 문화데이터 활용 경진대회 참여 - 제품·서비스 부문 참여 (2023)
 <br/>
-공개SW 개발자대회 참여 (2023)
+- 공개SW 개발자대회 참여 (2023)
 <br/>
 
  <!--알고리즘 -->
