@@ -1,13 +1,5 @@
 
 <div>
-<!--소개-->
-  
-## Introduction :raised_hands:
-안녕하세요! 함께 일하고 싶은 개발자가 되고 싶습니다.
-
-Hi, I'm Jaewon Huh. Aim to be an developer whom others want to work with
-<br/><br/>
-  
 ## Experiences :running:
 - SOFTBANK HACKERTON 2025 본선(2025)<br/>
 - 제 4회 예술로 바꾸는 세상 아이디어톤 우수상 (2023)<br/>
